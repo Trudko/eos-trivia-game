@@ -3,7 +3,7 @@
     "body-parser": "^1.19.0",
     "eosjs": "^20.0.0",
     "eosjs-ecc": "^4.0.7",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-fetch": "^2.6.0"
   }
 }
